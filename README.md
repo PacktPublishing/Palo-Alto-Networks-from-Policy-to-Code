@@ -81,8 +81,12 @@ By the end of this Palo Alto book, you’ll have the skills to optimize security
 
 
 <details open> 
-  <summary><h2>Requirements for this book</summary>
-To be filled
+  <summary><h2>Requirements for this book</summary>  
+    
+| Chapter  | Software required                                                     | OS required                       |
+| -------- | ----------------------------------------------------------------------| ----------------------------------|
+| 1-11     | PAN-OS, Palo Alto Firewall hardwares, Panorama VM, Palo Alto Licenses | Windows, Mac OS X, and Linux (Any)|
+
   </details>
     
 
