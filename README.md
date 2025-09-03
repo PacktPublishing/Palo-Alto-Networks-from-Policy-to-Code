@@ -1,3 +1,5 @@
+Please get all source code referenced in the book from: https://github.com/ngfw-automation/policy-as-a-code
+
 <h1 align="center">
 Palo Alto Networks from Policy to Code, First Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/palo-alto-networks-from-policy-to-code-first-edition/9781835881286"> Palo Alto Networks from Policy to Code, First Edition</a>, published by Packt.
