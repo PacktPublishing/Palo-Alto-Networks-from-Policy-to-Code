@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 Please get all source code referenced in the book from: https://github.com/ngfw-automation/policy-as-a-code
 
 <h1 align="center">
